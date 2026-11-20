@@ -49,3 +49,10 @@ Current Jira board does not support Scrum sprints or a dedicated Story Points fi
 ## Security
 
 This repo is for local demonstration only; never upload real customer information, production secrets or credentials. No payment gateway is integrated.
+
+## Course assignment evidence
+
+- [Assignment 02: Jira and GitHub workflow status](docs/assignment-02-evidence.md)
+- [Assignment 03: ClickUp WBS, Function Point Analysis, Gantt schedule, and reflection](docs/assignment-03-clickup-plan.md)
+
+These documents distinguish verified work from open requirements. The assignment code and documentation are separate from the production Sayrab V4 repository.
